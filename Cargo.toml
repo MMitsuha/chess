@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 console = "0.15.8"
 log = "0.4.20"
+range = "1.0.0"
